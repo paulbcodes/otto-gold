@@ -11,11 +11,11 @@ const Footer = (props: Props) => {
           <span className="text-cyan-500">Otto</span>{" "}
           <span className="text-amber-500">Gold</span> Made by{" "}
           <Link
-            href="https://paulbcodes.netlify.app"
+            href="https://pybot.tech"
             target="_blank"
             className="text-cyan-500 hover:text-cyan-600 transition-all duration-300"
           >
-            Paulbcodes
+            PyBot.Tech
           </Link>
         </p>
       </div>

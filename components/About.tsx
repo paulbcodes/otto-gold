@@ -26,7 +26,7 @@ const About = ({ data }: Props) => {
           What is <span className="text-cyan-600">Otto Gold </span>?
         </h1>
         <p className="text-amber-500/70 font-semibold w-full sm:w-5/6 md:w-4/6 lg:w-3/6 text-center m-auto">
-          Otto Gold is an NFT desgnied to reward early adopters in OttoChain, each will pay more in rewards than the cost to mint and develop into an OttoChain Meme.
+          Otto Gold is a miner booster for the PyBot.Tech. Holding these NFTs increases your mining rate on the PyBot.Tech cross / multi chain miner.
         </p>
       </div>
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-10 mx-auto text-white">

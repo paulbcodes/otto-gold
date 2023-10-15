@@ -13,7 +13,7 @@ const Hero = (props: Props) => {
         <div className="relative h-full w-full flex flex-col justify-center items-center p-5 mb-16">
           <h1 className="text-white text-5xl lg:text-6xl text-center font-bold w-2/3">
             <span className="text-cyan-500">Otto</span>{" "}
-            <span className="text-amber-500">Gold</span> NFT Collection
+            <span className="text-amber-500">Gold</span> Booster NFT
           </h1>
           <Mint />
         </div>
